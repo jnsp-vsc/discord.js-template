@@ -46,7 +46,7 @@
   "dependencies": {
     "bufferutil": "^4.0.3",
     "discord.js": "github:discordjs/discord.js",
-    "utf-8-validate": "^5.0.5",
+    "utf-8-validate": "^5.0.9",
     "zlib-sync": "^0.1.7"
   }
 }
